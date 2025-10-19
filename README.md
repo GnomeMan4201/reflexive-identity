@@ -6,7 +6,7 @@ An experimental AI security framework that treats AI agents as authenticated dig
 
 ## 🚀 Live Demo
 
-**[Try the Interactive Demo →](https://reflexive-identity.streamlit.app)**
+**[Try the Interactive Demo →]https://reflexive-identity-muavzwkxpiatjulbxe2juy.streamlit.app/**
 
 ## 📖 Concept
 
