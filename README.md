@@ -1,14 +1,14 @@
-# 🛡️ Reflexive Identity - Self-Defending AI Agent
+#  Reflexive Identity - Self-Defending AI Agent
 
 > **Auth0 for AI Agents Challenge Submission**
 
 An experimental AI security framework that treats AI agents as authenticated digital entities capable of self-verification, integrity monitoring, and autonomous privilege revocation.
 
-## 🚀 Live Demo
+##  Live Demo
 
-**[Try the Interactive Demo →]https://reflexive-identity-muavzwkxpiatjulbxe2juy.streamlit.app/**
+**[Try the Interactive Demo →](https://reflexive-identity-muavzwkxpiatjulbxe2juy.streamlit.app/)**
 
-## 📖 Concept
+##  Concept
 
 Traditional AI agents execute commands without verifying their own operational integrity. **Reflexive Identity** introduces a zero-trust loop where agents:
 
@@ -17,18 +17,18 @@ Traditional AI agents execute commands without verifying their own operational i
 3. **Dynamically request or revoke privileges** when anomalies are detected
 4. **Trigger an immune response** when integrity drops below threshold
 
-## 🏛️ Auth0 for AI Agents - Three Pillars Implementation
+##   Auth0 for AI Agents - Three Pillars Implementation
 
-### 🔐 Pillar 1: Authentication
+###  Pillar 1: Authentication
 The agent authenticates itself using Auth0 client credentials flow.
 
-### 🔑 Pillar 2: Token Vault
+###  Pillar 2: Token Vault
 Secure scope management with cognitive justification for privilege escalation.
 
-### 🛡️ Pillar 3: Fine-Grained Authorization
+###  Pillar 3: Fine-Grained Authorization
 Real-time scope verification with dynamic revocation based on trust score.
 
-## 🎯 Why This Matters
+##   Why This Matters
 
 **Current Problem**: AI agents are powerful but naive—they follow instructions without self-verification.
 
@@ -36,4 +36,4 @@ Real-time scope verification with dynamic revocation based on trust score.
 
 ---
 
-**📝 Blog Post**: [Read the full writeup on DEV.to](https://dev.to/gnomeman4201/reflexive-identity-the-self-defending-ai-agent-with-auth0-297k)
+**  Blog Post**: [Read the full writeup on DEV.to](https://dev.to/gnomeman4201/reflexive-identity-the-self-defending-ai-agent-with-auth0-297k)
